@@ -1,0 +1,45 @@
+Hi, I’m Anshu!
+I’m a passionate Web Developer with a strong background in Full-Stack Development. I specialize in creating innovative solutions to complex problems and thrive on bringing ideas to life.
+“Turning ideas into impactful digital experiences.”
+________________________________________
+Resume Page
+Education
+•	B.Tech in Computer Science
+NIT Rourkela – [2022]
+CGPA: 8.85
+Work Experience
+•	Front-End Developer
+Amazon – [4 Feb 2022] to [17 Nov 2024]
+o	Developed [specific accomplishments, e.g., "responsive web applications using React and Tailwind CSS"].
+o	Collaborated with cross-functional teams to deliver projects ahead of schedule.
+Skills
+•	Programming: [e.g., JavaScript, Python, C++]
+•	Tools & Technologies: [e.g., React, Node.js, SQL]
+•	Others: [e.g., Agile Methodologies, Version Control (Git)]
+Capstone Project 1
+[Project Name, e.g., AI-Powered Chatbot for Customer Support]
+•	A brief description: Built a chatbot using NLP techniques to enhance customer service efficiency by 40%.
+•	[Add a hyperlink if it's hosted online or a GitHub link.]
+________________________________________
+Projects
+1. [Project Name, e.g., Portfolio Website Builder]
+•	Designed and developed a dynamic tool for users to create customizable portfolio websites.
+•	Stack: [e.g., React, Firebase, Tailwind CSS]
+•	[Link to the project if available]
+2. [Project Name, e.g., Automated Expense Tracker]
+•	Built a Python application that categorizes expenses and visualizes spending habits.
+•	Features: Integration with Google Sheets, dynamic pie charts.
+3. [Any Additional Projects]
+________________________________________
+About Me
+I am an enthusiastic Full stack Web developer with a passion for solving real-world problems through technology. Beyond academics and professional pursuits, I am actively involved in:
+
+NCC at NIT Rourkela: Here, I focus on building leadership skills, discipline, and a strong sense of service to the nation.
+Rotaract Club of NIT Rourkela: As a proud member, I contribute to organizing impactful community events like RotaOlympics, fostering teamwork and societal engagement.
+In my free time, I enjoy reading mythological books , playing any outdoor game travelling. I’m deeply passionate about science before our mind and thought , and I aspire to make meaningful contributions both professionally and personally.________________________________________
+Contact Me
+Let’s Connect!
+•	Email: anshupritampalapp@gmail.com
+•	Phone: 7847952856
+•	LinkedIn: https://www.linkedin.com/in/anshu-pritam-pal-455947289/
+•	GitHub: https://github.com/Anshu231

@@ -1,0 +1,99 @@
+.header{
+    text-align: center; 
+    margin-bottom: 50px;
+}
+.header-section{
+    background-color:#F9C0AB;
+}
+.name-in-header{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    padding-right: 5%;
+}
+
+.text{
+    color: #355F2E;
+}
+
+.flex1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width:575px) {
+    .intro-heading{
+        display: flex;
+        justify-content: center;
+    }
+    .intro-para{
+        text-align: justify;
+    }
+    .flex1{
+        margin-bottom:20px ;
+    }
+}
+
+.introduction{
+    padding: 48px 24px 48px 24px;
+}
+ul{
+    list-style-type: none;
+}
+
+.para-margin{
+    margin:0px;
+}
+
+span{
+    font-weight: 700;
+    color: #A8CD89;
+}
+
+.quali-div h3{
+    color:#355F2E;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+    background-color: #355F2E;
+}
+
+p,li{
+    font-size: large;
+    /* font-family: "Merriweather", serif; */
+}
+
+
+h2{
+    font-family: "Montserrat", sans-serif;
+}
+
+.aboutme-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.aboutme-flex img{
+    border-radius: 2%;
+}
+
+.footer{
+    background-color: #A8CD89;
+}
+
+.h-change{
+    /* font-family: "Montserrat", sans-serif; */
+    /* font-family: "Lato", sans-serif; */
+    font-family: "Roboto", sans-serif;
+    /* font-family: "Open Sans", sans-serif; */
+}
+
+.h3-font{
+    font-family: "Merriweather", serif; 
+}
